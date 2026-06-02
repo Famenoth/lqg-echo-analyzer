@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "LQG Echo Delay Analyzer"
+version: "2.1"
+date-released: "2026-06-02"
+abstract: >
+  Computes and compares gravitational-wave echo search windows
+  for Loop Quantum Gravity (exact Kerr correction factor η(a★))
+  versus the Schwarzschild approximation (η=1), using real GWOSC
+  posterior samples or uniform Monte Carlo propagation.
+  Covers all 58 events in GWTC-1/2/3.
+authors:
+  - family-names: "Guilherme Junior"
+    given-names: "Mário Sérgio"
+    orcid: "https://orcid.org/0009-0002-5509-0683"
+license: MIT
+repository-code: "https://github.com/YOUR_USERNAME/lqg-echo-analyzer"
+keywords:
+  - loop quantum gravity
+  - gravitational waves
+  - black hole echoes
+  - Kerr black holes
+  - GWTC
+  - LQG
+  - spin-foam
